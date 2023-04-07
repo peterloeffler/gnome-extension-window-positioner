@@ -1,0 +1,10 @@
+{
+  "shortcut01": {
+    "shortcut": "<ctrl><alt>1",
+    "x": "0",
+    "y": "0",
+    "width": "1920",
+    "height": "1080",
+    "maximize": false
+  }
+}

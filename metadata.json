@@ -1,0 +1,10 @@
+{
+  "name": "Window Positioner",
+  "description": "Define keyboard shortcuts to set size and position of your currently active window.",
+  "uuid": "window-positioner@peterloeffler.github.com",
+  "url": "https://github.com/peterloeffler/gnome-extension-window-positioner",
+  "version": "0.0.1",
+  "shell-version": [
+    "44"
+  ]
+}
